@@ -16,4 +16,4 @@ When you run the script, the terminal will display:
 > `Hello! This is my first Python script on GitHub.`
 
 ---
-*Created as part of my dual-degree journey in Management and Information Technology.*
+ 
