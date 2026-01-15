@@ -1,4 +1,4 @@
-# 🌟 Python 101: The Global Greeting
+# Python 101 : The global greeting
 
 ## 📝 Purpose of the Repository
 In the IT industry, the "Hello World" script is a time-honored tradition. This repository serves as my **technical launchpad**, demonstrating the successful setup of a local development environment and its connection to a cloud-based version control system (GitHub). 
